@@ -1,0 +1,6 @@
+{
+  "name": "simple-multi-sig-wallet",
+  "version": "1.0.0",
+  "description": "Multi-Signature Crypto Wallet Repository",
+  "dependencies": {}
+}
